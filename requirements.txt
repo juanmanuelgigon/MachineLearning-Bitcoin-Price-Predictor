@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+scikit-learn
+
+pandas-ta
+pytrends
+tensorflow
+requests
+joblib
+seaborn 
+matplotlib
